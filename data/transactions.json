@@ -1,0 +1,51 @@
+  [
+    {
+      "id": "1",
+      "name": "Salário",
+      "type": "up",
+      "value": "6000.00",
+      "date": "05/01/2024"
+    },
+    {
+      "id": "2",
+      "name": "Compra do mês",
+      "type": "down",
+      "value": "800.00",
+      "category": "food",
+      "date": "16/01/2024"
+    },
+    {
+      "id": "3",
+      "name": "Conta de luz",
+      "type": "down",
+      "value": "200.00",
+      "category": "house",
+      "date": "18/01/2024"
+    },
+    {
+      "id": "4",
+      "name": "Jantar",
+      "type": "down",
+      "value": "250.00",
+      "category": "food",
+      "date": "20/02/2024"
+    },
+    {
+      "id": "5",
+      "name": "Viagem",
+      "type": "down",
+      "value": "700.00",
+      "category": "leisure",
+      "date": "22/02/2024"
+    },
+    {
+      "id": "6",
+      "name": "Faculdade",
+      "type": "down",
+      "value": "1800.00",
+      "category": "studies",
+      "date": "22/01/2024"
+    }
+  ]
+
+
