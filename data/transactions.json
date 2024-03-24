@@ -4,7 +4,7 @@
       "name": "Salário",
       "type": "up",
       "value": "6000.00",
-      "date": "05/01/2024"
+      "date": "05/03/2024"
     },
     {
       "id": "2",
@@ -12,7 +12,7 @@
       "type": "down",
       "value": "800.00",
       "category": "food",
-      "date": "16/01/2024"
+      "date": "16/02/2024"
     },
     {
       "id": "3",
@@ -20,7 +20,7 @@
       "type": "down",
       "value": "200.00",
       "category": "house",
-      "date": "18/01/2024"
+      "date": "18/03/2024"
     },
     {
       "id": "4",
@@ -28,7 +28,7 @@
       "type": "down",
       "value": "250.00",
       "category": "food",
-      "date": "20/02/2024"
+      "date": "20/03/2024"
     },
     {
       "id": "5",
@@ -36,7 +36,7 @@
       "type": "down",
       "value": "700.00",
       "category": "leisure",
-      "date": "22/02/2024"
+      "date": "22/03/2024"
     },
     {
       "id": "6",
@@ -44,7 +44,7 @@
       "type": "down",
       "value": "1800.00",
       "category": "studies",
-      "date": "22/01/2024"
+      "date": "22/03/2024"
     }
   ]
 
